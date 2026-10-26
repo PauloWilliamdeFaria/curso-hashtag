@@ -33,12 +33,12 @@ Oferecer ao cliente três cenários automatizados de compra para pintura residen
 
 1. Clone o repositório para a sua máquina local:
    ```bash
-   git clone https://github.com/PauloWilliamdeFaria/exercicios-python
+   git clone https://github.com/PauloWilliamdeFaria/curso-hashtag
    ```
 
 2. Acesse a pasta correspondente ao exercício:
    ```bash
-   cd exercicios-python/loja_tintas
+   cd Hashtag/lojadetinta
    ```
 
 3. Execute o script Python:
